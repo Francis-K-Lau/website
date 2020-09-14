@@ -7,6 +7,5 @@ update one more time on GItHub
 
 ## Repository Purpose
 
-This will be a changed that conficts with 
-whatever is on the remote side.
-This was edited locally.
+## Add and remove some text
+Testing git tag operation
